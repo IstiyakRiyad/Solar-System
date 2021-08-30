@@ -1,0 +1,224 @@
+{
+	"Background" : [
+		"px.jpg", 
+		"nx.jpg",
+		"py.jpg", 
+		"ny.jpg",
+		"pz.jpg", 
+		"nz.jpg"
+	],
+
+	"Stars" : [
+		{
+			"name" : "Sun",
+			"diameter" : 139.2684,
+			"eclipse" : {
+				"perihelion" : 0,
+				"aphelion" : 0,
+				"inclination" : 0,
+				"periapsis" : 0,
+				"ascending" : 0
+			},
+
+			"orbitColor" : "#ffd066",
+
+			"axialTilt" : 0,
+
+			"timePeriod" : {
+				"year": 1,
+				"day" : 609.12
+			},
+			"texture" : {
+				"emissive" : 16776960,
+				"path" : "Sun.jpg"
+			}
+		}
+	],
+
+	"Planets" : [
+		{
+			"name": "Mercury",
+			"diameter" : 0.48794,
+			"eclipse" : {
+				"perihelion" : 4600.1009,
+				"aphelion" : 6981.7445,
+				"inclination" : 3.38,
+				"periapsis" : 29.022,
+				"ascending" : 48.378
+			},
+
+			"orbitColor" : "#c0c0c0",
+
+			"axialTilt" : 0.03,
+			
+			"timePeriod" : {
+				"year": 87.9691,
+				"day" : 1407.6
+			},
+			"texture" : {
+				"path" : "Mercury.jpg"
+			}
+		},
+		{
+			"name" : "Venus",
+			"diameter" : 1.21036,
+			"eclipse" : {
+				"perihelion" : 10747.6170,
+				"aphelion" : 10894.2780,
+				"inclination" : 3.86,
+				"periapsis" : 54.780,
+				"ascending" : 76.785
+			},
+
+			"orbitColor" : "#e8bc86",
+
+			"axialTilt" : 2.64,
+			
+			"timePeriod" : {
+				"year": 224.7,
+				"day" : -5832.6	
+			},
+			"texture" : {
+				"path" : "Venus.jpg"
+			}
+		},
+		{
+			"name" : "Earth",
+			"diameter" : 1.27563,
+			"eclipse" : {
+				"perihelion" : 14709.8291,
+				"aphelion" : 15209.8233,
+				"inclination" : 7.155,
+				"periapsis" : 85.901,
+				"ascending" : 18.272
+			},
+
+			"orbitColor" : "#2b53a2",
+
+			"axialTilt" : 23.44,
+			
+			"timePeriod" : {
+				"year": 365.25636,
+				"day" : 23.93
+			},
+			"texture" : {
+				"path" : "Earth.jpg"
+			}
+		},
+		{
+			"name" : "Mars",
+			"diameter" : 0.67924,
+			"eclipse" : {
+				"perihelion" : 20665.5215,
+				"aphelion" : 24923.2432,
+				"inclination" : 5.65,
+				"periapsis" : 286.231,
+				"ascending" : 49.667
+			},
+
+			"orbitColor" : "#f4834d",
+
+			"axialTilt" : 25.19,
+			
+			"timePeriod" : {
+				"year": 687.04721316,
+				"day" : 24.62
+			},
+			"texture" : {
+				"path" : "Mars.jpg"
+			}
+		},
+		{
+			"name" : "Jupiter",
+			"diameter" : 14.2984,
+			"eclipse" : {
+				"perihelion" : 74067.9835,
+				"aphelion" : 81600.1807,
+				"inclination" : 6.09,
+				"periapsis" : 273.442,
+				"ascending" : 100.398
+			},
+
+			"orbitColor" : "#dcc5ae",
+
+			"axialTilt" : 3.13,
+			
+			"timePeriod" : {
+				"year": 4331.9404296,
+				"day" : 9.93
+			},
+			"texture" : {
+				"path" : "Jupiter.jpg"
+			}
+		},
+		{
+			"name" : "Saturn",
+			"diameter" : 12.0536,
+			"eclipse" : {
+				"perihelion" : 134982.3615,
+				"aphelion" : 150350.9229,
+				"inclination" : 5.51,
+				"periapsis" : 336.178,
+				"ascending" : 113.759
+			},
+
+			"orbitColor" : "#cebd94",
+
+			"axialTilt" : 26.73,
+			
+			"timePeriod" : {
+				"year": 10760.4523656,
+				"day" : 10.66
+			},
+			"texture" : {
+				"path" : "Saturn.jpg"
+			}
+		},
+		{
+			"name" : "Uranus",
+			"diameter" : 5.1118,
+			"eclipse" : {
+				"perihelion" : 273499.8229,
+				"aphelion" : 300631.8143,
+				"inclination" : 6.48,
+				"periapsis" : 98.862,
+				"ascending" : 73.967
+			},
+
+			"orbitColor" : "#aedbd4",
+
+			"axialTilt" : 82.23,
+			
+			"timePeriod" : {
+				"year": 30685.1868036,
+				"day" : -17.24
+			},
+			"texture" : {
+				"path" : "Uranus.jpg"
+			}
+		},
+		{
+			"name" : "Neptune",
+			"diameter" : 4.9528,
+			"eclipse" : {
+				"perihelion" : 445975.3056,
+				"aphelion" : 453703.9826,
+				"inclination" : 6.43,
+				"periapsis" : 256.932,
+				"ascending" : 131.823
+			},
+
+			"orbitColor" : "#305b9a",
+
+			"axialTilt" : 28.32,
+			
+			"timePeriod" : {
+				"year": 60194.248128,
+				"day" : 16.11
+			},
+			"texture" : {
+				"path" : "Neptune.jpg"
+			}
+		}
+	]
+}
