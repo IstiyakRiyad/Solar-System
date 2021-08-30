@@ -30,5 +30,9 @@
     "webpack": "^5.50.0",
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "three": "^0.132.2",
+    "three-orbitcontrols": "^2.110.3"
   }
 }
