@@ -1,0 +1,180 @@
+{
+	"url" : "Controller.png",
+
+	"buttons" : [
+		{
+			"name" : "Sun(+)",
+			"x" : 110,
+			"y" : 349,
+			"width" : 115,
+			"height" : 108,
+			"color" : "#ea4530",
+			"deltaTime" : 10 
+		},
+		{
+			"name" : "Sun(-)",
+			"x" : 226,
+			"y" : 349,
+			"width" : 115,
+			"height" : 108,
+			"color" : "#ea4530",
+			"deltaTime" : 10 
+		},
+		{
+			"name" : "Planets(+)",
+			"x" : 116,
+			"y" : 460,
+			"width" : 115,
+			"height" : 98,
+			"color" : "#2593e8",
+			"deltaTime" : 50 
+		},
+		{
+			"name" : "Planets(-)",
+			"x" : 232,
+			"y" : 460,
+			"width" : 115,
+			"height" : 98,
+			"color" : "#2593e8",
+			"deltaTime" : 50 
+		},
+		{
+			"name" : "Revolution(+)",
+			"x" : 116,
+			"y" : 233,
+			"width" : 101,
+			"height" : 115,
+			"color" : "#6ebf5d",
+			"deltaTime" : 50 
+		},
+		{
+			"name" : "Revolution(-)",
+			"x" : 238,
+			"y" : 0,
+			"width" : 101,
+			"height" : 115,
+			"color" : "#6ebf5d",
+			"deltaTime" : 50 
+		},
+		{
+			"name" : "Rotation(+)",
+			"x" : 238,
+			"y" : 116,
+			"width" : 91,
+			"height" : 115,
+			"color" : "#ed4d5c",
+			"deltaTime" : 50 
+		},
+		{
+			"name" : "Rotation(-)",
+			"x" : 238,
+			"y" : 232,
+			"width" : 91,
+			"height" : 115,
+			"color" : "#ed4d5c",
+			"deltaTime" : 50 
+		},
+		{
+			"name" : "Visibility",
+			"x" : 121,
+			"y" : 116,
+			"width" : 115,
+			"height" : 115,
+			"color" : "#ffffff",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Target",
+			"x" : 0,
+			"y" : 117,
+			"width" : 120,
+			"height" : 115,
+			"color" : "#46d4fc",
+			"deltaTime" : 200 
+		}
+	],
+
+	"objects" : [
+		{
+			"name" : "Sun",
+			"x" : 0,
+			"y" : 460,
+			"width" : 115,
+			"height" : 105,
+			"color" : "#ffd066",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Mercury",
+			"x" : 340,
+			"y" : 115,
+			"width" : 114,
+			"height" : 114,
+			"color" : "#c0c0c0",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Venus",
+			"x" : 340,
+			"y" : 230,
+			"width" : 114,
+			"height" : 114,
+			"color" : "#e8bc86",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Earth",
+			"x" : 0,
+			"y" : 349,
+			"width" : 109,
+			"height" : 110,
+			"color" : "#2b53a2",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Mars",
+			"x" : 340,
+			"y" : 0,
+			"width" : 115,
+			"height" : 114,
+			"color" : "#f4834d",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Jupiter",
+			"x" : 0,
+			"y" : 233,
+			"width" : 115,
+			"height" : 115,
+			"color" : "#dcc5ae",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Saturn",
+			"x" : 342,
+			"y" : 349,
+			"width" : 113,
+			"height" : 98,
+			"color" : "#cebd94",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Uranus",
+			"x" : 121,
+			"y" : 0,
+			"width" : 116,
+			"height" : 115,
+			"color" : "#aedbd4",
+			"deltaTime" : 200 
+		},
+		{
+			"name" : "Neptune",
+			"x" : 0,
+			"y" : 0,
+			"width" : 117,
+			"height" : 116,
+			"color" : "#305b9a",
+			"deltaTime" : 200 
+		}
+	]
+}
