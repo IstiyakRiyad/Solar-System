@@ -41,6 +41,6 @@ npm run build-dev
 
 
 ## Netlify Link
-<a href="https://upbeat-kirch-0a0643.netlify.app/"> Solar System </a>
+<a href="https://solar-system3d.netlify.app"> Solar System </a>
 
 
