@@ -91,7 +91,9 @@ module.exports = {
     devtool: tool,
 
     devServer: {
-        contentBase: "./build",
+        static: {
+            publicPath: "./build"
+        },
         hot: true
     }
 };
